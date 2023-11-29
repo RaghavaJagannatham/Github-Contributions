@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="#"
+                href="https://www.linkedin.com/in/raghava-jagannatham-2334681a9/recent-activity/articles/"
                 target="_blank"
                 rel="noreferrer"
               >
